@@ -1,4 +1,4 @@
-#Motion-switch
+## Motion-switch
 Motion-switch is a project built to support individuals with speech impairments or disabilities that make it difficult to use voice-based virtual assistants like Alexa or Siri.
 Instead of relying on vocal commands, this system uses hand gestures to perform simple actions, making technology more inclusive and accessible :D
 
